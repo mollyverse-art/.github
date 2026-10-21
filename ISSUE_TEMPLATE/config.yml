@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: "Mollyverse"
+    url: "https://www.mollyverse.art"
+    about: "The worlds, the mint and the artist."
+  - name: "Report a security problem"
+    url: "https://github.com/mollyverse-art/.github/blob/main/SECURITY.md"
+    about: "Privately, never in a public issue."
